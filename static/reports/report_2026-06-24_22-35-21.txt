@@ -1,0 +1,3 @@
+Image: img1.jpg
+Inference Time: 2026-06-24_22-35-21
+No defects detected.

@@ -1,0 +1,3 @@
+Image: crack.6.jpg
+Inference Time: 2025-07-11_12-09-40
+No defects detected.
