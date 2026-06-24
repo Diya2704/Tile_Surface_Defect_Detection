@@ -1,3 +1,0 @@
-Image: crack.11.jpg
-Inference Time: 2025-07-11_11-56-30
-No defects detected.
